@@ -1,0 +1,1 @@
+{"version":3,"sources":["todo.css"],"names":[],"mappings":"AAAA,gBACI,iBAAkB,CAClB,UAAW,CACX,WACJ,CAEA,SACI,sBACJ","file":"main.aa67c57e.chunk.css","sourcesContent":[".main_container {\n    position: relative;\n    width: 100%;\n    height: 99vh;\n}\n\n.todo_li {\n    background: #0000;\n}"]}
